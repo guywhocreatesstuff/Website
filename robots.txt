@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ayushbatra.com/sitemap.xml
